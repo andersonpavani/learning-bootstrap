@@ -1,0 +1,8 @@
+.container, .container-fluid {
+    background-color: antiquewhite;
+}
+
+.container-sm, .container-md, .container-lg {
+    border: 1px solid antiquewhite;
+    margin-bottom: 30px;
+}

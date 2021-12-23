@@ -1,0 +1,21 @@
+.container {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.row {
+    border: 1px solid blue;
+    height: 100px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.coluna {
+    border: 1px solid red;
+    height: 100%;
+    margin: 0px;
+}
+
+#largura-maxima {
+    max-width: 800px;
+}

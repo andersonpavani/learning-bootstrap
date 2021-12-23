@@ -1,0 +1,27 @@
+.container {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.row {
+    border: 1px solid blue;
+    height: 100px;
+    padding: 10px;
+}
+
+.coluna {
+    border: 1px solid red;
+    height: 100%;
+}
+
+#vertical {
+    height: 150px;
+}
+
+#vertical .row{
+    height: 100%;
+}
+
+.col-6, .col-3 {
+    height: 50px;
+}
